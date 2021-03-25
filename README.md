@@ -6,5 +6,4 @@
       
 ## 2. 编译包含以下常用工具  
     OpenClash：https://github.com/vernesong/OpenClash/  
-    HelloWorld：https://github.com/jerrykuku/luci-app-vssr  
-    Argon主题：https://github.com/jerrykuku/luci-theme-argon/  
+    Bypass: https://github.com/garypang13/luci-app-bypass  

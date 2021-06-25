@@ -6,4 +6,4 @@
       
 ## 2. 编译包含以下常用工具  
     OpenClash：https://github.com/vernesong/OpenClash/  
-    bypass: https://github.com/garypang13/luci-app-bypass  
+    Pass Wall: hhttps://github.com/xiaorouji/openwrt-passwall/  

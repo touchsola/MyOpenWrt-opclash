@@ -6,4 +6,4 @@
       
 ## 2. 编译包含以下常用工具  
     OpenClash：https://github.com/vernesong/OpenClash/  
-    Pass Wall: hhttps://github.com/xiaorouji/openwrt-passwall/  
+    PassWall: hhttps://github.com/xiaorouji/openwrt-passwall/  
